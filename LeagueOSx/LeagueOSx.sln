@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueOSx", "LeagueOSx.csproj", "{EC7C49F0-EC88-4068-97E8-2ED8240C00C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7C49F0-EC88-4068-97E8-2ED8240C00C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7C49F0-EC88-4068-97E8-2ED8240C00C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7C49F0-EC88-4068-97E8-2ED8240C00C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7C49F0-EC88-4068-97E8-2ED8240C00C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿SUMMONERNAME: shiphtur
+ACCOUNTID: 32746443
+SUMMONERID: 19967304
+
+
+[ -> array
+    { -> object
+        "queueType": "RANKED_SOLO_5x5",
+        "hotStreak": false,
+        "wins": 421,
+        "veteran": false,
+        "losses": 403,
+        "playerOrTeamId": "19967304",
+        "leagueName": "Taric's Shadehunters",
+        "playerOrTeamName": "Shiphtur",
+        "inactive": false,
+        "rank": "I",
+        "freshBlood": true,
+        "leagueId": "930faadc-f191-3fc0-b715-79804ef73cfc",
+        "tier": "CHALLENGER",
+        "leaguePoints": 300
+    }
+]
