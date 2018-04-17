@@ -10,7 +10,7 @@ namespace LeagueOSx.WebService {
 
         public APIHandler() {
             ExeConfigurationFileMap configMap = new ExeConfigurationFileMap();
-            configMap.ExeConfigFilename = @"../";
+            configMap.ExeConfigFilename = AppDomain.CurrentDomain.BaseDirectory + "/../Configuration/app.config";
             client = new HttpClient();
             client.DefaultRequestHeaders.Add("X-Riot-Token", ConfigurationManager.AppSettings["API-KEY"]);
         }

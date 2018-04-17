@@ -27,9 +27,11 @@ namespace LeagueOSx {
 
             //APIHandler api = new APIHandler();
             //string readText = File.ReadAllText("../SeedData/Masteries.json");
-            string readText = File.ReadAllText("../../../../Configuration/LeagueOS/app.config");
+            string readText = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + "/../Configuration/app.config");
 
             //int result = api.GetChampionScoresAsync(19967304).Result;
+            //Assets
+            //Console.WriteLine(AppDomain.CurrentDomain.BaseDirectory + "/../Assets");
             Console.WriteLine(readText);
         }
 

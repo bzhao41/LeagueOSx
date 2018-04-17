@@ -3,3 +3,8 @@
 /Users/brucezhao/Projects/LeagueOS/LeagueOSx/obj/Debug/LeagueOSx.csproj.CoreCompileInputs.cache
 /Users/brucezhao/Projects/LeagueOS/LeagueOSx/obj/Debug/LeagueOSx.exe
 /Users/brucezhao/Projects/LeagueOS/LeagueOSx/obj/Debug/LeagueOSx.pdb
+/Users/brucezhao/Projects/LeagueOS/LeagueOSx/LeagueOSx/bin/Debug/LeagueOSx.exe
+/Users/brucezhao/Projects/LeagueOS/LeagueOSx/LeagueOSx/bin/Debug/LeagueOSx.pdb
+/Users/brucezhao/Projects/LeagueOS/LeagueOSx/LeagueOSx/obj/Debug/LeagueOSx.csproj.CoreCompileInputs.cache
+/Users/brucezhao/Projects/LeagueOS/LeagueOSx/LeagueOSx/obj/Debug/LeagueOSx.exe
+/Users/brucezhao/Projects/LeagueOS/LeagueOSx/LeagueOSx/obj/Debug/LeagueOSx.pdb
